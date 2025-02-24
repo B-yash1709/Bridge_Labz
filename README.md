@@ -19,3 +19,4 @@
 # Date- 20/02/2025, Learned basics about Steams and uploaded the Assignment.
 # Date- 21/02/2025, Learned basics about Execeptions and uploaded the Assignments.
 # Date- 22/02/2025, Learned basics about Regex and NUnits and uploaded the Assignments.
+# Date- 24/02/2025, Learned basics about Annotations and Rewflections and also uploaded the assignments.
