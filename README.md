@@ -19,3 +19,6 @@
 # Date- 20/02/2025, Learned basics about Steams and uploaded the Assignment.
 # Date- 21/02/2025, Learned basics about Execeptions and uploaded the Assignments.
 # Date- 22/02/2025, Learned basics about Regex and NUnits and uploaded the Assignments.
+# Date- 24/02/2025, Learned basics about Annotation and Reflections and submitted the Assignments.
+# Date- 25/02/2025, Learned basics about CSV File Handling and  submitted the Assignments.
+# Date- 26/02/2025, Learned basics about JSON and submitted the Assignments.
