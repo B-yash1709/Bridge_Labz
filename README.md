@@ -22,3 +22,4 @@
 # Date- 24/02/2025, Learned basics about Annotation and Reflections and submitted the Assignments.
 # Date- 25/02/2025, Learned basics about CSV File Handling and  submitted the Assignments.
 # Date- 26/02/2025, Learned basics about JSON and submitted the Assignments.
+# Date- 28/02/2025, Learned basics about Creation of User Registration API and submitted the Assignments.
