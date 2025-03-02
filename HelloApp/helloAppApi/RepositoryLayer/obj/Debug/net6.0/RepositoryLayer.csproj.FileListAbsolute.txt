@@ -1,0 +1,15 @@
+D:\VBProjectPractice\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+D:\VBProjectPractice\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+D:\VBProjectPractice\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
+D:\VBProjectPractice\RepositoryLayer\bin\Debug\net6.0\ModelLayer.dll
+D:\VBProjectPractice\RepositoryLayer\bin\Debug\net6.0\ModelLayer.pdb
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+D:\VBProjectPractice\RepositoryLayer\obj\Debug\net6.0\Reposito.A0A61804.Up2Date

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\helloAppApi",
+    "\\helloAppApi\\BusinessLayer",
+    "\\helloAppApi\\BusinessLayer\\Service",
+    "\\helloAppApi\\HelloApp",
+    "\\helloAppApi\\HelloApp\\Controllers",
+    "\\helloAppApi\\ModelLayer\\DTO",
+    "\\helloAppApi\\RepositoryLayer\\Interface",
+    "\\helloAppApi\\RepositoryLayer\\Service"
+  ],
+  "SelectedNode": "\\helloAppApi\\HelloApp\\HelloApp.sln",
+  "PreviewInSolutionExplorer": false
+}
