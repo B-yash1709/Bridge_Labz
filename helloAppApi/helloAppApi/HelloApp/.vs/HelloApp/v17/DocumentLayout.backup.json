@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\HelloApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A831F56-DA5B-472E-873B-0FF9789025CB}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\businesslayer\\service\\registerhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DB5C1-0E97-4C2C-BB41-4447B579DB27}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\repositorylayer\\service\\registerhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0CB0D-6947-40A4-8E9A-FC2305C9B836}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\modellayer\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A878BC9-BFA9-4AB7-BC6C-FF2B21ABDEE1}|HelloApp.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\helloapp\\controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A878BC9-BFA9-4AB7-BC6C-FF2B21ABDEE1}|HelloApp.csproj|solutionrelative:controllers\\helloappcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DB5C1-0E97-4C2C-BB41-4447B579DB27}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\repositorylayer\\interface\\iregisterhellorl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A831F56-DA5B-472E-873B-0FF9789025CB}|..\\BusinessLayer\\BusinessLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\businesslayer\\interface\\iregisterhellobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0CB0D-6947-40A4-8E9A-FC2305C9B836}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\modellayer\\dto\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0CB0D-6947-40A4-8E9A-FC2305C9B836}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\modellayer\\dto\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B2DB5C1-0E97-4C2C-BB41-4447B579DB27}|..\\RepositoryLayer\\RepositoryLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\repositorylayer\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0CB0D-6947-40A4-8E9A-FC2305C9B836}|..\\ModelLayer\\ModelLayer.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\modellayer\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A878BC9-BFA9-4AB7-BC6C-FF2B21ABDEE1}|HelloApp.csproj|c:\\users\\hp\\documents\\self\\helloappapi\\helloapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A878BC9-BFA9-4AB7-BC6C-FF2B21ABDEE1}|HelloApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T09:04:32.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloAppController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HelloAppController.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\HelloApp\\Controllers\\HelloAppController.cs",
+              "RelativeToolTip": "Controllers\\HelloAppController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAApwEQAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:05:35.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interface\\IRegisterHelloRL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:27:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterHelloRL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Service\\RegisterHelloRL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:03:55.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Service\\RegisterHelloBL.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:04:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRegisterHelloBL.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interface\\IRegisterHelloBL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:29:54.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\RegistrationResponse.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\RegistrationResponse.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\RegistrationResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:38:47.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\ResponseModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:35:45.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADgvxgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:39:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "RelativeToolTip": "..\\ModelLayer\\DTO\\RegisterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T06:03:05.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\HelloApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Self\\helloAppApi\\HelloApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAEwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T07:52:22.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

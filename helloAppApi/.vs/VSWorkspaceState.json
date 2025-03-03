@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\helloAppApi",
+    "\\helloAppApi\\BusinessLayer",
+    "\\helloAppApi\\HelloApp",
+    "\\helloAppApi\\HelloApp\\Controllers"
+  ],
+  "SelectedNode": "\\helloAppApi\\HelloApp\\Controllers\\Microsoft.EntityFrameworkCore.Design.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,114 @@
+2025-03-03 12:29:03.4958 | Info | Starting application... | 
+2025-03-03 12:29:12.4742 | Info | Now listening on: https://localhost:7155 | 
+2025-03-03 12:29:12.5140 | Info | Now listening on: http://localhost:5076 | 
+2025-03-03 12:29:12.7482 | Info | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 12:29:12.7482 | Info | Hosting environment: Development | 
+2025-03-03 12:29:12.7513 | Info | Content root path: C:\Users\HP\Documents\Self\helloAppApi\HelloApp\ | 
+2025-03-03 12:29:15.0123 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 12:29:16.5452 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 1545.3919ms | 
+2025-03-03 12:29:16.5548 | Info | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 12:29:16.5548 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.css - - | 
+2025-03-03 12:29:16.5548 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 12:29:16.5548 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/swagger-ui.css - - | 
+2025-03-03 12:29:16.5548 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/swagger-ui-bundle.js - - | 
+2025-03-03 12:29:16.6137 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 57.1933ms | 
+2025-03-03 12:29:16.6278 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/swagger-ui-standalone-preset.js - - | 
+2025-03-03 12:29:16.6278 | Info | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 11974 application/javascript;+charset=utf-8 73.4634ms | 
+2025-03-03 12:29:16.6425 | Info | The file /index.css was not modified | 
+2025-03-03 12:29:16.6425 | Info | The file /swagger-ui-bundle.js was not modified | 
+2025-03-03 12:29:16.6425 | Info | The file /swagger-ui.css was not modified | 
+2025-03-03 12:29:16.6425 | Info | The file /swagger-ui-standalone-preset.js was not modified | 
+2025-03-03 12:29:16.6425 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/swagger-ui-bundle.js - - - 304 - application/javascript 92.7021ms | 
+2025-03-03 12:29:16.6425 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.css - - - 304 - text/css 94.1312ms | 
+2025-03-03 12:29:16.6425 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/swagger-ui.css - - - 304 - text/css 93.2562ms | 
+2025-03-03 12:29:16.6592 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/swagger-ui-standalone-preset.js - - - 304 - application/javascript 31.4171ms | 
+2025-03-03 12:29:16.7925 | Info | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 12:29:17.2456 | Info | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 453.0998ms | 
+2025-03-03 12:29:17.7536 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 12:29:17.7925 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 38.7350ms | 
+2025-03-03 12:31:35.2206 | Info | Request starting HTTP/2 POST https://localhost:7155/HelloApp/register application/json 111 | 
+2025-03-03 12:31:35.2577 | Info | Executing endpoint 'HelloApp.Controllers.HelloAppController.RegistrationUser (HelloApp)' | 
+2025-03-03 12:31:35.3729 | Info | Route matched with {action = "RegistrationUser", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegistrationUser(ModelLayer.DTO.RegisterDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). | 
+2025-03-03 12:31:40.9030 | Info | Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None | 
+2025-03-03 12:31:46.8836 | Info | Executed DbCommand (478ms) [Parameters=[@__registerDTO_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__registerDTO_Email_0 | 
+2025-03-03 12:31:59.8145 | Error | Error in user registration | System.NullReferenceException: Object reference not set to an instance of an object.
+   at BusinessLayer.Service.RegisterHelloBL.RegisterBL(RegisterDTO registerDTO) in C:\Users\HP\Documents\Self\helloAppApi\BusinessLayer\Service\RegisterHelloBL.cs:line 77
+2025-03-03 14:18:02.4915 | Info | Starting application... | 
+2025-03-03 14:18:07.4635 | Info | Now listening on: https://localhost:7155 | 
+2025-03-03 14:18:07.4975 | Info | Now listening on: http://localhost:5076 | 
+2025-03-03 14:18:07.7790 | Info | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 14:18:07.7942 | Info | Hosting environment: Development | 
+2025-03-03 14:18:07.8066 | Info | Content root path: C:\Users\HP\Documents\Self\helloAppApi\HelloApp\ | 
+2025-03-03 14:18:09.0816 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 14:18:10.6014 | Info | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 14:18:10.6114 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 14:18:10.6114 | Info | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 14:18:10.6114 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 1548.5753ms | 
+2025-03-03 14:18:10.6349 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 23.4948ms | 
+2025-03-03 14:18:10.6766 | Info | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 11974 application/javascript;+charset=utf-8 75.1739ms | 
+2025-03-03 14:18:11.0172 | Info | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 404.7408ms | 
+2025-03-03 14:18:11.5100 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 14:18:11.5299 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 19.7688ms | 
+2025-03-03 14:18:41.0147 | Info | Request starting HTTP/2 POST https://localhost:7155/HelloApp/login application/json 46 | 
+2025-03-03 14:18:41.0505 | Info | Executing endpoint 'HelloApp.Controllers.HelloAppController.LoginUser (HelloApp)' | 
+2025-03-03 14:18:41.1595 | Info | Route matched with {action = "LoginUser", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LoginUser(ModelLayer.DTO.LoginDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). | 
+2025-03-03 14:18:42.6290 | Info | Login attempt for user: root | 
+2025-03-03 14:18:42.6290 | Info | Login successful for user: root | 
+2025-03-03 14:18:42.6290 | Info | User root logged in successfully | 
+2025-03-03 14:18:42.6496 | Info | Executing OkObjectResult, writing value of type 'ModelLayer.DTO.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. | 
+2025-03-03 14:18:42.6728 | Info | Executed action HelloApp.Controllers.HelloAppController.LoginUser (HelloApp) in 1498.2656ms | 
+2025-03-03 14:18:42.6728 | Info | Executed endpoint 'HelloApp.Controllers.HelloAppController.LoginUser (HelloApp)' | 
+2025-03-03 14:18:42.6923 | Info | Request finished HTTP/2 POST https://localhost:7155/HelloApp/login application/json 46 - 200 - application/json;+charset=utf-8 1677.4529ms | 
+2025-03-03 14:19:36.4781 | Info | Request starting HTTP/2 POST https://localhost:7155/HelloApp/register application/json 105 | 
+2025-03-03 14:19:36.4907 | Info | Executing endpoint 'HelloApp.Controllers.HelloAppController.RegistrationUser (HelloApp)' | 
+2025-03-03 14:19:36.4907 | Info | Route matched with {action = "RegistrationUser", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult RegistrationUser(ModelLayer.DTO.RegisterDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). | 
+2025-03-03 14:19:39.2117 | Info | Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None | 
+2025-03-03 14:19:43.1899 | Info | Executed DbCommand (254ms) [Parameters=[@__registerDTO_Email_0='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE [u].[Email] = @__registerDTO_Email_0 | 
+2025-03-03 14:19:44.0925 | Info | Executed DbCommand (21ms) [Parameters=[@p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Email], [FirstName], [LastName], [Password])
+VALUES (@p0, @p1, @p2, @p3);
+SELECT [UserId]
+FROM [Users]
+WHERE @@ROWCOUNT = 1 AND [UserId] = scope_identity(); | 
+2025-03-03 14:19:44.2881 | Info | Executing CreatedResult, writing value of type 'ModelLayer.DTO.ResponseModel`1[[ModelLayer.DTO.RegistrationResponse, ModelLayer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. | 
+2025-03-03 14:19:44.2881 | Info | Executed action HelloApp.Controllers.HelloAppController.RegistrationUser (HelloApp) in 7799.7382ms | 
+2025-03-03 14:19:44.2881 | Info | Executed endpoint 'HelloApp.Controllers.HelloAppController.RegistrationUser (HelloApp)' | 
+2025-03-03 14:19:44.3218 | Info | Request finished HTTP/2 POST https://localhost:7155/HelloApp/register application/json 105 - 201 - application/json;+charset=utf-8 7843.7261ms | 
+2025-03-03 14:44:30.6490 | Info | Starting application... | 
+2025-03-03 14:44:35.9493 | Info | Now listening on: https://localhost:7155 | 
+2025-03-03 14:44:36.0675 | Info | Now listening on: http://localhost:5076 | 
+2025-03-03 14:44:36.4515 | Info | Application started. Press Ctrl+C to shut down. | 
+2025-03-03 14:44:36.4636 | Info | Hosting environment: Development | 
+2025-03-03 14:44:36.4636 | Info | Content root path: C:\Users\HP\Documents\Self\helloAppApi\HelloApp\ | 
+2025-03-03 14:44:37.8785 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.html - - | 
+2025-03-03 14:44:39.5809 | Info | Request starting HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - | 
+2025-03-03 14:44:39.5646 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.html - - - 200 - text/html;charset=utf-8 1696.6325ms | 
+2025-03-03 14:44:39.5809 | Info | Request starting HTTP/2 GET https://localhost:7155/_vs/browserLink - - | 
+2025-03-03 14:44:39.5809 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/index.js - - | 
+2025-03-03 14:44:39.6058 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/index.js - - - 200 - application/javascript;charset=utf-8 22.7395ms | 
+2025-03-03 14:44:39.6409 | Info | Request finished HTTP/2 GET https://localhost:7155/_framework/aspnetcore-browser-refresh.js - - - 200 11974 application/javascript;+charset=utf-8 59.9738ms | 
+2025-03-03 14:44:40.0998 | Info | Request finished HTTP/2 GET https://localhost:7155/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 516.7745ms | 
+2025-03-03 14:44:40.5457 | Info | Request starting HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - | 
+2025-03-03 14:44:40.5841 | Info | Request finished HTTP/2 GET https://localhost:7155/Swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 38.4084ms | 
+2025-03-03 14:45:10.3653 | Info | Request starting HTTP/2 POST https://localhost:7155/HelloApp/login application/json 58 | 
+2025-03-03 14:45:10.3781 | Info | Executing endpoint 'HelloApp.Controllers.HelloAppController.LoginUser (HelloApp)' | 
+2025-03-03 14:45:10.4442 | Info | Route matched with {action = "LoginUser", controller = "HelloApp"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult LoginUser(ModelLayer.DTO.LoginDTO) on controller HelloApp.Controllers.HelloAppController (HelloApp). | 
+2025-03-03 14:45:11.4922 | Info | Login attempt for user: rohit@abc.com | 
+2025-03-03 14:45:14.6631 | Info | Entity Framework Core 6.0.36 initialized 'HelloAppContext' using provider 'Microsoft.EntityFrameworkCore.SqlServer:6.0.36' with options: None | 
+2025-03-03 14:45:20.1939 | Info | Executed DbCommand (421ms) [Parameters=[@__loginDTO_Email_0='?' (Size = 4000), @__loginDTO_Password_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[UserId], [u].[Email], [u].[FirstName], [u].[LastName], [u].[Password]
+FROM [Users] AS [u]
+WHERE ([u].[Email] = @__loginDTO_Email_0) AND ([u].[Password] = @__loginDTO_Password_1) | 
+2025-03-03 14:45:20.5151 | Info | Login successful for user: rohit@abc.com | 
+2025-03-03 14:45:20.5172 | Info | User rohit@abc.com logged in successfully | 
+2025-03-03 14:45:20.5376 | Info | Executing OkObjectResult, writing value of type 'ModelLayer.DTO.ResponseModel`1[[System.String, System.Private.CoreLib, Version=6.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. | 
+2025-03-03 14:45:20.5667 | Info | Executed action HelloApp.Controllers.HelloAppController.LoginUser (HelloApp) in 10102.5104ms | 
+2025-03-03 14:45:20.5667 | Info | Executed endpoint 'HelloApp.Controllers.HelloAppController.LoginUser (HelloApp)' | 
+2025-03-03 14:45:20.6116 | Info | Request finished HTTP/2 POST https://localhost:7155/HelloApp/login application/json 58 - 200 - application/json;+charset=utf-8 10246.3310ms | 
