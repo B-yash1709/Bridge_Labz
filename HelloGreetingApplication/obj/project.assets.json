@@ -1018,11 +1018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GLA Project Final\\HelloGreetingApplication\\HelloGreetingApplication\\HelloGreetingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\HelloGreetingApplication\\HelloGreetingApplication.csproj",
       "projectName": "HelloGreetingApplication",
-      "projectPath": "D:\\GLA Project Final\\HelloGreetingApplication\\HelloGreetingApplication\\HelloGreetingApplication.csproj",
+      "projectPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\HelloGreetingApplication\\HelloGreetingApplication.csproj",
       "packagesPath": "C:\\Users\\MSI-1\\.nuget\\packages\\",
-      "outputPath": "D:\\GLA Project Final\\HelloGreetingApplication\\HelloGreetingApplication\\obj\\",
+      "outputPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\HelloGreetingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1043,8 +1043,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GLA Project Final\\HelloGreetingApplication\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "D:\\GLA Project Final\\HelloGreetingApplication\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\BusinessLayer\\BusinessLayer.csproj"
             }
           }
         }

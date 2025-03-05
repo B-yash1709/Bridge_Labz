@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GLA Project Final\\HelloGreetingApplication\\RepositoryLayer\\RepositoryLayer.csproj": {}
+    "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\RepositoryLayer\\RepositoryLayer.csproj": {}
   },
   "projects": {
-    "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\MSI-1\\.nuget\\packages\\",
-        "outputPath": "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\obj\\",
+        "outputPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\GLA Project Final\\HelloGreetingApplication\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GLA Project Final\\HelloGreetingApplication\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "D:\\GLA Project Final\\HelloGreetingApplication\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\MSI-1\\.nuget\\packages\\",
-        "outputPath": "D:\\GLA Project Final\\HelloGreetingApplication\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "D:\\GLA Project Final\\HelloGreetingApplication\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\MSI-1\\Documents\\GitDemo\\Bridge_Labz\\ModelLayer\\ModelLayer.csproj"
               }
             }
           }
